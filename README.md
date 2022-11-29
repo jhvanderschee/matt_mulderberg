@@ -10,7 +10,7 @@ What if knowing &lt;p&gt;this&lt;/p&gt; much HTML was enough to create, manage a
 
 > [...] the mission of “Democratize Publishing” to me means that people of all backgrounds, interests, and abilities should be able to access Free-as-in-speech software that empowers them to express themselves on the open web and to own their content.
 
-WordPress has been very succesful, allowing millions of people to easily create websites. This project aims to take that one step further. Imagine a website with no databases, no PHP, no React, no backups, no updates and no complicated hosting environments. Imagine a website so simple, that it is free to host (on Github for example). Would that not be the ultimate 'democratization' of publishing!?
+WordPress has been very succesful, allowing millions of people to easily create websites. A wonderful achievement. This project aims to take that one step further. Imagine a website with no databases, no PHP, no React, no backups, no updates and no complicated hosting environments. Imagine a website so simple, that it is free to host (on Github for example). Would that not be the ultimate 'democratization' of publishing!?
 
 ## How it works
 
