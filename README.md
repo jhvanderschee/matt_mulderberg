@@ -38,4 +38,4 @@ original at [https://ma.tt](https://ma.tt/)
 
 ## Add-ons
 
-But what if you want more sophisticated elemnts (besides simple &lt;p&gt; tags), like a carousel, a grid layout with images or a lightbox? No problem! That is where the [add-ons](add-ons/) come in.
+But what if you want more sophisticated elements (besides simple &lt;p&gt; tags), like a carousel, a grid layout with images or a lightbox? No problem! That is where the [add-ons](add-ons/) come in.
