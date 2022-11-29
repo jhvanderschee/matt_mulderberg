@@ -4,7 +4,7 @@
 
 What if knowing &lt;p&gt;this&lt;/p&gt; much HTML was enough to create, manage and host a website yourself? What if that website was not only good looking, but also so simple, that it would be free to host? It would 'democratize publishing' for the web.
 
-# A shared vision
+## A shared vision
 
 'Democratize publishing' has been the vision for WordPress for years. Matt Mullenweg described it in 2018:
 
