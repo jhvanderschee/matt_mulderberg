@@ -24,15 +24,13 @@ This project allows you to create or adjust a website that consists of one HTML 
 
 ### John Doe - [code](demo/) - [demo](https://jhvanderschee.github.io/democratizepublishing/demo/)
 
-original at [https://john-doe.neocities.org](https://john-doe.neocities.org/)
 
-<a href="https://jhvanderschee.github.io/democratizepublishing/demo/"><img src="https://jhvanderschee.github.io/democratizepublishing/demo/screenshot.png" style="width: 200px;" /></a>
+
+<a href="https://jhvanderschee.github.io/democratizepublishing/demo/"><img src="https://jhvanderschee.github.io/democratizepublishing/demo/screenshot.png" style="width: 200px;" /></a><br>original at [https://john-doe.neocities.org](https://john-doe.neocities.org/)
 
 ### Matt Mulderberg - [code](matt-mullenweg/) - [demo](https://jhvanderschee.github.io/democratizepublishing/matt-mullenweg/)
 
-original at [https://ma.tt](https://ma.tt/)
-
-<a href="https://jhvanderschee.github.io/democratizepublishing/matt-mullenweg/"><img src="https://jhvanderschee.github.io/democratizepublishing/matt-mullenweg/images/screenshot.png" style="width: 200px;" /></a><br>
+<a href="https://jhvanderschee.github.io/democratizepublishing/matt-mullenweg/"><img src="https://jhvanderschee.github.io/democratizepublishing/matt-mullenweg/images/screenshot.png" style="width: 200px;" /></a><br>original at [https://ma.tt](https://ma.tt/)
 
 &nbsp;
 
