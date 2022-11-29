@@ -12,8 +12,8 @@ You can create a website that consists of a single HTML and a single CSS file. Y
 
 ## Example websites
 
-- [John Doe](demo/) ([demo](https://jhvanderschee.github.io/democratizepublishing/demo/))
-- [Matt Mulderberg homepage](matt-Mulderberg/) ([demo](https://jhvanderschee.github.io/democratizepublishing/matt-Mulderberg/))
+- [John Doe](demo/) ([demo](https://jhvanderschee.github.io/democratizepublishing/demo/)) orignal at [https://john-doe.neocities.org](https://john-doe.neocities.org/)
+- [Matt Mulderberg homepage](matt-mullenweg/) ([demo](https://jhvanderschee.github.io/democratizepublishing/matt-mullenweg/)) orignal at [https://ma.tt](https://ma.tt/)
 
 ## Add-ons
 
