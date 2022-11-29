@@ -8,7 +8,7 @@ Matt did an awesome job and WordPress truly made a difference by powering millio
 
 ## How it works
 
-You can create a website that consists of a single HTML and a single CSS file. Yet, you still get a multi-page website. Curious how that works? Look at the examples below.
+You can create a website that consists of a single HTML and a single CSS file. Yet, you still get a multi-page website. I got inspired by [this repo](https://github.com/cadars/john-doe). Curious how it works? Look at the examples below.
 
 ## Example websites
 
