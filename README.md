@@ -22,7 +22,11 @@ This project allows you to create or adjust a website that consists of one HTML 
 
 ## Example websites
 
-<a href="https://jhvanderschee.github.io/democratizepublishing/demo/"><img src="https://jhvanderschee.github.io/democratizepublishing/demo/screenshot.png" style="width: 200px;" /></a><br>John Doe - [code](demo/) - [demo](https://jhvanderschee.github.io/democratizepublishing/demo/)<br>(original at [https://john-doe.neocities.org](https://john-doe.neocities.org/))
+### John Doe - [code](demo/) - [demo](https://jhvanderschee.github.io/democratizepublishing/demo/)
+
+<a href="https://jhvanderschee.github.io/democratizepublishing/demo/"><img src="https://jhvanderschee.github.io/democratizepublishing/demo/screenshot.png" style="width: 200px;" /></a>
+
+(original at [https://john-doe.neocities.org](https://john-doe.neocities.org/))
 
 <a href="https://jhvanderschee.github.io/democratizepublishing/matt-mullenweg/"><img src="https://jhvanderschee.github.io/democratizepublishing/matt-mullenweg/images/screenshot.png" style="width: 200px;" /></a><br>Matt Mulderberg - [code](matt-mullenweg/) - [demo](https://jhvanderschee.github.io/democratizepublishing/matt-mullenweg/)<br>(original at [https://ma.tt](https://ma.tt/))
 
