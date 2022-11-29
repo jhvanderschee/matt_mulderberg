@@ -272,18 +272,6 @@ a:before {
   margin-right: .4em;
 }
 
-/* Add more filetypes here if you want */
-
-a[href$=".pdf"]:before { content: "PDF"; }
-a[href$=".txt"]:before { content: "TXT"; }
-a[href$=".mp3"]:before { content: "MP3"; }
-a[href$=".zip"]:before { content: "ZIP"; }
-a[href$=".rar"]:before { content: "RAR"; }
-a[href$=".jpeg"]:before,
-a[href$=".jpg"]:before,
-a[href$=".gif"]:before,
-a[href$=".png"]:before { content: "IMG"; }
-
 /* ------- News ------- */
 
 article + article {

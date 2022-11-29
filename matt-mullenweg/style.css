@@ -1,0 +1,40 @@
+* { margin: 0; padding: 0; box-sizing: border-box;}
+html {font-size: 10px; scroll-behavior: smooth;}
+body {background: #d6f7fc; font-family: "Noto Serif", Garamond, "Times New Roman", serif;line-height: 1.476; font-size: 2.1rem;}
+body > * {padding-left: 4vw!important; padding-right: 4vw!important;}
+header {position: absolute; width: 100%;}
+header, footer {background: #2275a5; color: white; letter-spacing: -0.0277em; font-size: 1.8rem; font-family: 'Inter';}
+header h1 {font-size: 1.8rem; font-weight: 500; color: white}
+header h1 a {font-weight: 700; font-size: 2.4rem; margin-right: 2.4rem;}
+header nav {display: flex; gap: 2.5rem; font-weight: 500;}
+footer span {font-weight: 700;}
+footer .container div {display: flex; gap: 2.4rem;}
+main {padding-bottom: 8rem; min-height: calc(100vh - 10rem);}
+.container {display: flex; justify-content: space-between; align-items: center; height: 10rem; max-width: 168rem; margin: 0 auto;}
+.container a {color: white; text-decoration: none;}
+.container a:hover {text-decoration: underline;}
+
+h1, h2, h3 {color: #000000; font-family: 'Inter'; font-style: normal; font-weight: 800; letter-spacing: -0.0415625em;}
+a[onclick] {cursor: pointer;}
+pre {font-size: 2rem; background: rgba(0,0,0,0.05); padding: 1.5rem 2rem; overflow: auto;}
+img {max-width: 100%;}
+
+section {display: none; padding-top: 10rem;}
+section:target {display: block;}
+section > * {width: calc(100% - 4rem); max-width: 58rem; margin: 0 auto;}
+section a {color: rgb(217, 17, 70);}
+section a:hover {text-decoration: none;}
+section > h2:first-child {padding: 8rem 0; background: #2275a5; color: white; max-width: none; width: 100vw; margin: 0 -4vw 8rem; text-align: center; font-size: 8.4rem; line-height: 1.138888889;}
+section > h3 {font-weight: 700; font-size: 4rem; margin: 6rem auto 3rem;}
+section li {margin-left: 2rem;}
+section article, section > p:first-child {padding-top: 8rem;}
+section article {max-width: 100%; position: relative;}
+
+article > h1:first-child, article > h2:first-child {font-size: 6.4rem;}
+article > h1:first-child, article > h2:first-child, article > time {line-height: 1.138888889; max-width: 100%; text-align: center; margin: 0;}
+article > * {max-width: 58rem; margin: 0 auto;}
+section > *, article > * {margin-bottom: 1.25em;}
+article > time {display: block; letter-spacing: -0.016875em; color: #2b636d; font-weight: 500; font-family: 'Inter'; font-size: 1.6rem; margin: 3.4rem 0 8rem;}
+article > time::before {content: ""; display: inline-block; width: 1.7rem; height: 1.7rem; background: url(images/calendar.svg) center center / contain no-repeat; position: relative; top: 0.2rem; margin-right: 1rem;}
+article + article {border-top: 1px solid #2b636d; margin-top: 8rem;}
+article + article::before {content: "//"; background: #d6f7fc; padding: 0 0.5rem 0 0.75rem; position: absolute; display: inline-block; left: 50%; top: 0; transform: translate(-50%, -50%) skew(-8deg); color: #2b636d; font-size: 1.8rem; font-family: 'Inter'; letter-spacing: 0.25rem; margin-top: -0.1rem;}
