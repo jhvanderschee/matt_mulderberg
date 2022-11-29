@@ -12,8 +12,8 @@ This website consists of a single HTML and a single CSS file. Yet, you still get
 
 ## Example websites
 
-- John Doe (https://john-doe.neocities.org/)
-- Matt Mullenweg homepage 
+- [John Doe](demo/)
+- [Matt Mullenweg homepage](matt-mullenweg/)
 
 ## Add-ons
 
