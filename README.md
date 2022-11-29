@@ -16,10 +16,8 @@ This project allows you to create or adjust a website that consists of one HTML 
 
 ## Example websites
 
-- ![](https://jhvanderschee.github.io/democratizepublishing/demo/screenshot.png)  
-[John Doe](demo/) ([demo](https://jhvanderschee.github.io/democratizepublishing/demo/)) orignal at [https://john-doe.neocities.org](https://john-doe.neocities.org/)
-- ![](https://jhvanderschee.github.io/democratizepublishing/matt-mullenweg/images/screenshot.png)  
-[Matt Mulderberg](matt-mullenweg/) ([demo](https://jhvanderschee.github.io/democratizepublishing/matt-mullenweg/)) orignal at [https://ma.tt](https://ma.tt/)
+- <img src="https://jhvanderschee.github.io/democratizepublishing/demo/screenshot.png" style="width: 200px;" /><br>[John Doe](demo/) ([demo](https://jhvanderschee.github.io/democratizepublishing/demo/)) orignal at [https://john-doe.neocities.org](https://john-doe.neocities.org/)
+- <img src="https://jhvanderschee.github.io/democratizepublishing/matt-mullenweg/images/screenshot.png" style="width: 200px;" /><br>[Matt Mulderberg](matt-mullenweg/) ([demo](https://jhvanderschee.github.io/democratizepublishing/matt-mullenweg/)) orignal at [https://ma.tt](https://ma.tt/)
 
 ## Add-ons
 
