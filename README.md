@@ -30,8 +30,6 @@ Below you find ready to use templates. Just adjust the HTML and make it yours.
 
 original at [https://john-doe.neocities.org](https://john-doe.neocities.org/)
 
-&nbsp;
-
 ### Matt Mulderberg - [code](matt-mullenweg/) - [demo](https://jhvanderschee.github.io/democratizepublishing/matt-mullenweg/)
 
 original at [https://ma.tt](https://ma.tt/)
