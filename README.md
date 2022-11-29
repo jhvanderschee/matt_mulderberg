@@ -1,7 +1,5 @@
 # Democratize Publishing
 
-## What if?
-
 What if knowing &lt;b&gt;this&lt;/b&gt; much HTML was enough to create, manage and host a website yourself? What if that website was not only good looking, but also so simple, that it would be free to host?
 
 ## A shared vision
