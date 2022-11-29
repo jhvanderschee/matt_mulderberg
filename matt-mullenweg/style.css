@@ -55,11 +55,11 @@ article + article::before {content: "//"; background: #d6f7fc; padding: 0 0.5rem
     header h1 {position: absolute; left: 50%; transform: translate(-50%);}
     header h1 span {display: none;}
     header h1 a {font-size: 2.8rem; position: relative; top: 0.8rem;}
-    section > h2:first-child {font-size: 5rem; padding: 6rem 0;}
 }
 
 @media screen and (max-width: 40rem) {
     html {font-size: 1.55vw;}
+    section > h2:first-child {font-size: 5rem; padding: 6rem 0;}
 }
 @media screen and (max-width: 32rem) {
     html {font-size: 7.7px;}
