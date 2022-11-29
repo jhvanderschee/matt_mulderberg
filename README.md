@@ -10,7 +10,7 @@ What if knowing &lt;b&gt;this&lt;/b&gt; much HTML was enough to create, manage a
 
 > [...] the mission of “Democratize Publishing” to me means that people of all backgrounds, interests, and abilities should be able to access Free-as-in-speech software that empowers them to express themselves on the open web and to own their content.
 
-WordPress has been very succesful, allowing millions of people to easily create websites. A wonderful achievement. This project aims to take that one step further. A website built with this project has no databases, no PHP, no React, no backups, no updates and no complicated hosting environments. It is not only open-source, but also truly yours and something you can host for free (on Github for example). The only thing it requires is basic knowledge of HTML, which you can easily learn online.
+WordPress has been very succesful, allowing millions of people to easily create websites. A wonderful achievement. This project aims to do the same, but in a slightly different way. A website built with this project has no databases, no PHP, no React, no backups, no updates and no complicated hosting environments. It is not only open-source, but also truly yours and something you can host for free (on Github for example). The only thing it requires is basic knowledge of HTML, which you can easily learn online.
 
 &nbsp;
 
