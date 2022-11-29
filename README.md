@@ -28,13 +28,17 @@ Below you find ready to use templates. Just adjust the HTML and make it yours.
 
 ### John Doe - [code](demo/) - [demo](https://jhvanderschee.github.io/democratizepublishing/demo/)
 
-<a href="https://jhvanderschee.github.io/democratizepublishing/demo/"><img src="https://jhvanderschee.github.io/democratizepublishing/demo/screenshot.png" style="width: 200px;" /></a><br>original at [https://john-doe.neocities.org](https://john-doe.neocities.org/)
+original at [https://john-doe.neocities.org](https://john-doe.neocities.org/)
 
 &nbsp;
 
 ### Matt Mulderberg - [code](matt-mullenweg/) - [demo](https://jhvanderschee.github.io/democratizepublishing/matt-mullenweg/)
 
-<a href="https://jhvanderschee.github.io/democratizepublishing/matt-mullenweg/"><img src="https://jhvanderschee.github.io/democratizepublishing/matt-mullenweg/images/screenshot.png" style="width: 200px;" /></a><br>original at [https://ma.tt](https://ma.tt/)
+original at [https://ma.tt](https://ma.tt/)
+
+&nbsp; 
+
+<a href="https://jhvanderschee.github.io/democratizepublishing/demo/"><img src="https://jhvanderschee.github.io/democratizepublishing/demo/screenshot.png" style="width: 200px;" /></a> <a href="https://jhvanderschee.github.io/democratizepublishing/matt-mullenweg/"><img src="https://jhvanderschee.github.io/democratizepublishing/matt-mullenweg/images/screenshot.png" style="width: 200px;" /></a>
 
 &nbsp;
 
