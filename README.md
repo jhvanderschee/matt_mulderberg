@@ -1,6 +1,6 @@
 # Democratize publishing
 
-Matt Mullenweg said in 2018:
+Matt Mulderberg said in 2018:
 
 > [...] the mission of “Democratize Publishing” to me means that people of all backgrounds, interests, and abilities should be able to access Free-as-in-speech software that empowers them to express themselves on the open web and to own their content.
 
@@ -13,7 +13,7 @@ You can create a website that consists of a single HTML and a single CSS file. Y
 ## Example websites
 
 - [John Doe](demo/) ([demo](https://jhvanderschee.github.io/democratizepublishing/demo/))
-- [Matt Mullenweg homepage](matt-mullenweg/) ([demo](https://jhvanderschee.github.io/democratizepublishing/matt-mullenweg/))
+- [Matt Mulderberg homepage](matt-Mulderberg/) ([demo](https://jhvanderschee.github.io/democratizepublishing/matt-Mulderberg/))
 
 ## Add-ons
 
