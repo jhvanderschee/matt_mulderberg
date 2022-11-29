@@ -10,7 +10,7 @@ header h1 a {font-weight: 700; font-size: 2.4rem; white-space: nowrap;}
 header nav {display: flex; gap: 2.5rem; font-weight: 500; align-items: center;}
 header nav + a {display: none;}
 header nav a:last-child {background: url(images/search.svg) center center / 2.4rem auto no-repeat; margin-left: 4rem;}
-header .container > a {background: url(images/dots.svg) center center / 3.4rem auto no-repeat}
+header .container > a {background: url(images/dots.svg) center center / 3.2rem auto no-repeat}
 header .container > a, header nav a:last-child {font-size: 1.3rem; font-weight: 600; padding-top: 5rem; min-width: 2.8rem; text-align: center; position: relative;}
 header nav a:last-child::before {content: ""; position: absolute; height: 3rem; width: 1px; background: #268dc9; left: 0; top: 1.9rem; margin-left: -3.2rem;}
 
@@ -49,12 +49,12 @@ article + article::before {content: "//"; background: #d6f7fc; padding: 0 0.5rem
 @media screen and (max-width: 75rem) {
     header nav a {display: none;}
     header nav + a {display: block;}
-    header nav a:last-child {display: block; margin-left: 0; background-size: 3.4rem auto;}
+    header nav a:last-child {display: block; margin-left: 0; background-size: 3.2rem auto;}
     header nav a:last-child::before {content: none;}
-    header .container > a, header nav a:last-child {padding-top: 6rem; min-width: 3.4rem;}
+    header .container > a, header nav a:last-child {padding-top: 6rem; min-width: 3.4rem; position: relative; bottom: 0.8rem; }
     header h1 {position: absolute; left: 50%; transform: translate(-50%);}
     header h1 span {display: none;}
-    header h1 a {font-size: 2.8rem; position: relative; top: 0.8rem;}
+    header h1 a {font-size: 2.8rem; font-weight: 600;}
 }
 
 @media screen and (max-width: 40rem) {
