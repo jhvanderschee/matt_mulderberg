@@ -28,7 +28,7 @@ section > h2:first-child {padding: 8rem 0; background: #2275a5; color: white; ma
 section > h3 {font-weight: 700; font-size: 4rem; margin: 6rem auto 3rem;}
 section li {margin-left: 2rem;}
 section article, section > p:first-child {padding-top: 8rem;}
-section article {max-width: 100%; position: relative;}
+section article {max-width: 120rem; position: relative; width: 100%;}
 
 article > h1:first-child, article > h2:first-child {font-size: 6.4rem;}
 article > h1:first-child, article > h2:first-child, article > time {line-height: 1.138888889; max-width: 100%; text-align: center; margin: 0;}
