@@ -24,14 +24,10 @@ This project allows you to create or adjust a website that consists of one HTML 
 
 Below you find ready to use templates. Just adjust the HTML and make it yours.
 
-&nbsp;
-
-### John Doe - [code](demo/) - [demo](https://jhvanderschee.github.io/democratizepublishing/demo/)
-
+**John Doe - [code](demo/) - [demo](https://jhvanderschee.github.io/democratizepublishing/demo/)**  
 original at [https://john-doe.neocities.org](https://john-doe.neocities.org/)
 
-### Matt Mulderberg - [code](matt-mullenweg/) - [demo](https://jhvanderschee.github.io/democratizepublishing/matt-mullenweg/)
-
+**Matt Mulderberg - [code](matt-mullenweg/) - [demo](https://jhvanderschee.github.io/democratizepublishing/matt-mullenweg/)**  
 original at [https://ma.tt](https://ma.tt/)
 
 &nbsp; 
