@@ -12,11 +12,11 @@ header nav + a {display: none;}
 header nav a:last-child {background: url(images/search.svg) center center / 2.4rem auto no-repeat; margin-left: 4rem; position: relative; bottom: 0.3rem;}
 header .container > a {background: url(images/dots.svg) center center / 3.2rem auto no-repeat}
 header .container > a, header nav a:last-child {font-size: 1.3rem; font-weight: 600; padding-top: 5rem; min-width: 2.8rem; text-align: center; position: relative;}
-header nav a:last-child::before {content: ""; position: absolute; height: 3rem; width: 1px; background: #268dc9; left: 0; top: 1.9rem; margin-left: -3.2rem;}
+header nav a:last-child::before {content: ""; position: absolute; height: 3rem; width: 1px; background: rgba(255,255,255,0.2); left: 0; top: 2.2rem; margin-left: -3.2rem;}
 
 footer span {font-weight: 700;}
 footer .container div {display: flex; gap: 2.4rem;}
-main {padding-bottom: 10rem; min-height: calc(100vh - 10rem);}
+main {padding-bottom: 12rem; min-height: calc(100vh - 10rem);}
 .container {display: flex; justify-content: space-between; align-items: center; height: 10rem; max-width: 168rem; margin: 0 auto;}
 .container a {color: white; text-decoration: none;}
 .container a:hover {text-decoration: underline;}
@@ -31,7 +31,7 @@ section:target {display: block;}
 section > * {max-width: 58rem; margin: 0 auto;}
 section a {color: rgb(217, 17, 70);}
 section a:hover {text-decoration: none;}
-section > h2:first-child {padding: 8rem 0; background: #2275a5; color: white; max-width: none; width: 100vw; margin: 0 -4vw 8rem; text-align: center; font-size: 8.4rem; line-height: 1.138888889;}
+section > h2:first-child {padding: 8rem 4vw; background: #2275a5; color: white; max-width: none; width: 100vw; margin: 0 -4vw 8rem; text-align: center; font-size: 8.4rem; line-height: 1.138888889;}
 section > h3 {font-weight: 700; font-size: 4rem; margin: 6rem auto 3rem;}
 section li {margin-left: 2rem;}
 section article, section > p:first-child {padding-top: 8rem;}
@@ -62,7 +62,7 @@ article + article::before {content: "//"; background: #d6f7fc; padding: 0 0.5rem
 
 @media screen and (max-width: 40rem) {
     html {font-size: 1.55vw;}
-    section > h2:first-child {font-size: 5rem; padding: 6rem 0;}
+    section > h2:first-child {font-size: 5rem; padding: 6rem 4vw;}
     article > h1:first-child, article > h2:first-child {font-size: 4.6rem;}
     footer .container > div > span + a {display: none;}
 }
