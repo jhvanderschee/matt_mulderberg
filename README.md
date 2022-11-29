@@ -12,8 +12,8 @@ This website consists of a single HTML and a single CSS file. Yet, you still get
 
 ## Example websites
 
-- [John Doe](demo/)
-- [Matt Mullenweg homepage](matt-mullenweg/)
+- [John Doe](demo/) ([demo](https://jhvanderschee.github.io/democratizepublishing/demo/))
+- [Matt Mullenweg homepage](matt-mullenweg/) ([demo](https://jhvanderschee.github.io/democratizepublishing/matt-mullenweg/))
 
 ## Add-ons
 
