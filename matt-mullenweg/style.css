@@ -48,7 +48,7 @@ article + article::before {content: "//"; background: #d6f7fc; padding: 0 0.5rem
 
 form {padding-top: 2rem;}
 form > div {display: flex; flex-direction: column; padding-bottom: 2rem;}
-form > div label {margin-bottom: .25em; font-size: 1.6rem;}
+form > div label {margin-bottom: .35em; font-size: 1.6rem;}
 form > div textarea, form > div input {padding: 1.5rem 1.8rem; font-size: 2rem; font-family: "Noto Serif", Garamond, "Times New Roman", serif;}
 form > div textarea {height: 20rem; min-width: 100%; max-width: 100%;}
 form > div input[type="submit"] {background-color: #d91146; border: 0; color: white; font-family: 'Inter'; font-weight: 700; letter-spacing: -0.0415625em; cursor: pointer; margin-top: 1rem;}
