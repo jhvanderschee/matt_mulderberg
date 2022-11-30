@@ -13,7 +13,8 @@
 ## What if it could look like this?
 
 <a href="https://jhvanderschee.github.io/democratizepublishing/matt-mullenweg/"><img src="https://jhvanderschee.github.io/democratizepublishing/matt-mullenweg/images/screenshot.png" style="width: 200px;" /></a>  
-[demo](https://jhvanderschee.github.io/democratizepublishing/matt-mullenweg/) - [code](matt-mullenweg/) - [original](https://ma.tt/)
+
+It could be [really clean](https://jhvanderschee.github.io/democratizepublishing/demo/) or be [a replica](https://jhvanderschee.github.io/democratizepublishing/matt-mullenweg/) of [a famous website].
 
 ## What if it was free to host?
 
