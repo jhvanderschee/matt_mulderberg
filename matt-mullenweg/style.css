@@ -57,6 +57,7 @@ form > div input[type="submit"] {background-color: #d91146; border: 0; color: wh
     header nav {position: relative; top: 0;}
     header nav a {display: none;}
     header nav + a {display: block;}
+    header nav + a:hover {text-decoration: none;}
     header nav a:last-child {display: block; margin-left: 0; background-size: 3.2rem auto; bottom: 0;}
     header nav a:last-child::before {content: none;}
     body.menuopen header nav {height: 100vh; position: fixed; top: 0; left: 0; width: 100%; display: block; background: #2275a5; z-index: 99; padding-top: 8rem; cursor: pointer;}
