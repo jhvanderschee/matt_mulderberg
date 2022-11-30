@@ -29,13 +29,14 @@ body {
 /* ------- Sections ------- */
 
 section {
-  padding: calc(6em + 5vw) 5vw 8vw 5vw;
+  padding: calc(9em + 5vw) 5vw 11em;
   display: none;
   top: 0;
-  min-height: 100vh;
+  /*min-height: 100vh;*/
   width: 100%;
   background: var(--bgcolor);
 }
+
 
 section:target { /* Show section */
   display: block;
@@ -43,7 +44,7 @@ section:target { /* Show section */
 
 /* ------- Header ------- */
 
-header {
+header, footer {
   padding: 5vw 5vw 0 5vw;
   display: flex;
   flex-wrap: wrap;
@@ -51,6 +52,7 @@ header {
   width: 100%;
   z-index: 2;
 }
+footer {justify-content: space-between; font-size: 80%; padding-bottom: 5vw;}
 
 header h1 {
   font-size: 1em;
