@@ -13,11 +13,12 @@
 ## What if it could look like this?
 
 <a href="https://jhvanderschee.github.io/democratizepublishing/matt-mullenweg/"><img src="https://jhvanderschee.github.io/democratizepublishing/matt-mullenweg/images/screenshot.png" style="width: 200px;" /></a>  
-[demo](https://jhvanderschee.github.io/democratizepublishing/matt-mullenweg/) - [code](matt-mullenweg/) - [original](https://ma.tt/)
+
+It could be [a replica](https://jhvanderschee.github.io/democratizepublishing/matt-mullenweg/) of [a famous website](https://ma.tt/)... or it could look [really clean](https://jhvanderschee.github.io/democratizepublishing/demo/).
 
 ## What if it was free to host?
 
-A website built with this project has no databases, no PHP, no React, no backups, no updates and no complicated hosting environments. You can host it for free on Github and you can run it on your local machine by double clicking the index.html. The only thing it requires is basic knowledge of HTML, which you can easily learn online.
+A website built with this project has just two files, no databases, no PHP, no React, no backups, no updates, no build pipeline with pre or post processors, no linting, no staging environment and hosting requirements. You can host it for free on Github and you can run it on your local machine by double clicking the index.html. The only thing it requires is basic knowledge of HTML.
 
 ## Credits
 
