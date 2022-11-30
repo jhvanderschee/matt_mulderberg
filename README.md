@@ -1,6 +1,24 @@
 # Democratize Publishing
 
-What if knowing &lt;b&gt;this&lt;/b&gt; much HTML was enough to create, manage and host a website yourself? What if that website was not only good looking, but also so simple, that it would be free to host?
+## What if this was a website:
+
+- index.html
+- style.css
+
+## What if this was a page:
+
+&lt;section id="home"&gt;
+  &lt;h2&gt;Disclaimer&lt;/h2&gt;
+  &lt;p&gt;...&lt;/p&gt;
+&lt;/section&gt;
+
+## What if it looked like this:
+
+<a href="https://jhvanderschee.github.io/democratizepublishing/matt-mullenweg/"><img src="https://jhvanderschee.github.io/democratizepublishing/matt-mullenweg/images/screenshot.png" style="width: 200px;" /></a>
+
+## What if it was not only simple but also free to host?
+
+A website built with this project has no databases, no PHP, no React, no backups, no updates and no complicated hosting environments. You can run it on your local machine by double clicking the index.html. It is not only open-source, but you can also manage it yourself. The only thing it requires is basic knowledge of HTML, which you can easily learn online.
 
 &nbsp;
 
@@ -10,7 +28,7 @@ What if knowing &lt;b&gt;this&lt;/b&gt; much HTML was enough to create, manage a
 
 > [...] the mission of “Democratize Publishing” to me means that people of all backgrounds, interests, and abilities should be able to access Free-as-in-speech software that empowers them to express themselves on the open web and to own their content.
 
-WordPress has been very succesful, allowing millions of people to easily create websites. A wonderful achievement. This project aims to do the same, but in a slightly different way. A website built with this project has no databases, no PHP, no React, no backups, no updates and no complicated hosting environments. It is not only open-source, but also truly yours and something you can host for free (on Github for example). The only thing it requires is basic knowledge of HTML, which you can easily learn online.
+WordPress has been very succesful, allowing millions of people to easily create websites. A wonderful achievement. This project aims to do the same, but in a completely different way. 
 
 &nbsp;
 
@@ -24,17 +42,10 @@ This project allows you to create or adjust a website that consists of one HTML 
 
 Below you find ready to use templates. Just adjust the HTML and make it yours.
 
-**John Doe - [code](demo/) - [demo](https://jhvanderschee.github.io/democratizepublishing/demo/)**  
-original at [https://john-doe.neocities.org](https://john-doe.neocities.org/)
-
-**Matt Mulderberg - [code](matt-mullenweg/) - [demo](https://jhvanderschee.github.io/democratizepublishing/matt-mullenweg/)**  
-original at [https://ma.tt](https://ma.tt/)
+- John Doe - [code](demo/) - [demo](https://jhvanderschee.github.io/democratizepublishing/demo/) - [original](https://john-doe.neocities.org/)
+- Matt Mulderberg - [code](matt-mullenweg/) - [demo](https://jhvanderschee.github.io/democratizepublishing/matt-mullenweg/) - [original](https://ma.tt/)
 
 &nbsp; 
-
-<a href="https://jhvanderschee.github.io/democratizepublishing/demo/"><img src="https://jhvanderschee.github.io/democratizepublishing/demo/screenshot.png" style="width: 200px;" /></a> <a href="https://jhvanderschee.github.io/democratizepublishing/matt-mullenweg/"><img src="https://jhvanderschee.github.io/democratizepublishing/matt-mullenweg/images/screenshot.png" style="width: 200px;" /></a>
-
-&nbsp;
 
 ## Add-ons
 
