@@ -4,7 +4,7 @@
   
   --textcolor: #121212;
   --bgcolor: #fff;
-  --highlight: #2749c9;
+  --highlight: #121212;
 
 }
 
@@ -67,12 +67,13 @@ nav a:not(:last-of-type) {
 
 /* ------- General ------- */
 
-a {
+section a:hover, a {
   text-decoration: none;
   color: var(--highlight);
+  border: 0;
 }
 
-a:hover {
+section a, a:hover {
   border-bottom: 1px solid;
 }
 
@@ -248,7 +249,7 @@ section:target iframe {
 
 /* External links */
 
-a[href*="//"]:after { 
+section a:hover:after, a[href*="//"]:after { 
   font-weight: 300;
   font-size: .85em;
   content: "\2197"; /* top right arrow: ↗ */
@@ -256,7 +257,7 @@ a[href*="//"]:after {
   opacity: .25;
 }
 
-a[href*="//"]:hover:after {
+section a:after, a[href*="//"]:hover:after {
   color: var(--highlight);
   opacity: 1;
 }
