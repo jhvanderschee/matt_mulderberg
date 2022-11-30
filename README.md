@@ -10,7 +10,7 @@
 &nbsp;&nbsp;&lt;p&gt;...&lt;/p&gt;  
 &lt;/section&gt;
 
-### What if it looked like this?
+### What if it could look like this?
 
 <a href="https://jhvanderschee.github.io/democratizepublishing/matt-mullenweg/"><img src="https://jhvanderschee.github.io/democratizepublishing/matt-mullenweg/images/screenshot.png" style="width: 200px;" /></a>  
 [demo](https://jhvanderschee.github.io/democratizepublishing/matt-mullenweg/) - [code](matt-mullenweg/) - [original](https://ma.tt/)
