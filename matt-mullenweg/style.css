@@ -52,10 +52,13 @@ article + article::before {content: "//"; background: #d6f7fc; padding: 0 0.5rem
     header nav + a {display: block;}
     header nav a:last-child {display: block; margin-left: 0; background-size: 3.2rem auto; bottom: 0;}
     header nav a:last-child::before {content: none;}
-    body.menuopen header nav {height: 100vh; position: fixed; top: 0; left: 0; width: 100%; display: block; background: #2275a5; z-index: 99; padding-top: 8rem;}
+    body.menuopen header nav {height: 100vh; position: fixed; top: 0; left: 0; width: 100%; display: block; background: #2275a5; z-index: 99; padding-top: 8rem; cursor: pointer;}
     body.menuopen header nav a:first-child {border-top: 1px solid rgba(255,255,255,0.2);}
     body.menuopen header nav a {display: block; padding: 2rem 4vw; border-bottom: 1px solid rgba(255,255,255,0.2);}
     body.menuopen header nav a:last-child {display: none;}
+    body.menuopen header nav::before,
+    body.menuopen header nav::after {content: ""; display: block; width: 3rem; height: 0.3rem; transform: rotate(45deg); background: white; position: absolute; top: 4rem; right: 4vw;}
+    body.menuopen header nav::after {transform: rotate(-45deg);}
     header .container > a, header nav a:last-child {padding-top: 6rem; min-width: 3.4rem; position: relative; bottom: 0.8rem; margin-right: -4vw; padding-right: 4vw; margin-left: -4vw; padding-left: 4vw;}
     header h1 {position: absolute; left: 50%; transform: translate(-50%);}
     header h1 span {display: none;}
@@ -63,7 +66,6 @@ article + article::before {content: "//"; background: #d6f7fc; padding: 0 0.5rem
     .container {height: 11rem;}
     section {padding-top: 11rem;}
 }
-
 @media screen and (max-width: 40rem) {
     html {font-size: 1.55vw;}
     section > h2:first-child {font-size: 5rem; padding: 6rem 4vw;}

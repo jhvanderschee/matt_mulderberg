@@ -185,11 +185,8 @@
     <!-- Make sure a hash is loaded -->
     <script type="text/javascript">
     if (window.location.hash == '') window.location.href = '#home';
-    var navlinks = document.querySelectorAll('nav a');
-    navlinks.forEach(function(navlink) {
-      navlink.addEventListener("click", function() {
+    document.querySelector('nav').addEventListener("click", function() {
         document.body.classList.remove('menuopen');
-      });
     });    
     </script>
 
