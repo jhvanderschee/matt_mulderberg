@@ -1,3 +1,5 @@
+## Democratize Publishing
+
 ### What if this was a website:
 
 - index.html
