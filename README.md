@@ -1,4 +1,4 @@
-### What if this was a website?
+### What if this was a (full) website?
 
 - index.html
 - style.css
