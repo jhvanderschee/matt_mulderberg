@@ -21,4 +21,4 @@ A website built with this project has no databases, no PHP, no React, no backups
 
 ### Credits
 
-I got inspired by [this repo](https://github.com/cadars/john-doe) by [Adam Newbold](https://www.linkedin.com/in/neatnik/).
+I got inspired by [this repo](https://github.com/cadars/john-doe) from [Adam Newbold](https://www.linkedin.com/in/neatnik/).
