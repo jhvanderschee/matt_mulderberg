@@ -1,6 +1,6 @@
 * { margin: 0; padding: 0; box-sizing: border-box;}
 html {font-size: 10px; scroll-behavior: smooth;}
-body {background: #d6f7fc; font-family: "Noto Serif", Garamond, "Times New Roman", serif;line-height: 1.476; font-size: 2.1rem;}
+body {background: #d6f7fc; font-family: "Noto Serif", Garamond, "Times New Roman", serif; line-height: 1.476; font-size: 2.1rem;}
 body > * {padding-left: 4vw!important; padding-right: 4vw!important;}
 header {position: absolute; width: 100%;}
 header, footer {background: #2275a5; color: white; letter-spacing: -0.0277em; font-size: 1.8rem; font-family: 'Inter';}
@@ -45,6 +45,13 @@ article > time {display: block; letter-spacing: -0.016875em; color: #2b636d; fon
 article > time::before {content: ""; display: inline-block; width: 1.7rem; height: 1.7rem; background: url(images/calendar.svg) center center / contain no-repeat; position: relative; top: 0.2rem; margin-right: 1rem;}
 article + article {border-top: 1px solid #2b636d; margin-top: 8rem;}
 article + article::before {content: "//"; background: #d6f7fc; padding: 0 0.5rem 0 0.75rem; position: absolute; display: inline-block; left: 50%; top: 0; transform: translate(-50%, -50%) skew(-8deg); color: #2b636d; font-size: 1.8rem; font-family: 'Inter'; letter-spacing: 0.25rem; margin-top: -0.1rem;}
+
+form {padding-top: 2rem;}
+form > div {display: flex; flex-direction: column; padding-bottom: 2rem;}
+form > div label {margin-bottom: .25em; font-size: 1.6rem;}
+form > div textarea, form > div input {padding: 1.5rem 1.8rem; font-size: 2rem; font-family: "Noto Serif", Garamond, "Times New Roman", serif;}
+form > div textarea {height: 20rem; min-width: 100%; max-width: 100%;}
+form > div input[type="submit"] {background-color: #d91146; border: 0; color: white; font-family: 'Inter'; font-weight: 700; letter-spacing: -0.0415625em; cursor: pointer; margin-top: 1rem;}
 
 @media screen and (max-width: 75rem) {
     header nav {position: relative; top: 0;}
