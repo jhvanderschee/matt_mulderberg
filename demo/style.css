@@ -247,27 +247,6 @@ section:target iframe {
   visibility: visible;
 }
 
-/* External links */
-
-section a:hover:after, a[href*="//"]:after { 
-  font-weight: 300;
-  font-size: .85em;
-  content: "\2197"; /* top right arrow: ↗ */
-  color: var(--textcolor);
-  opacity: .25;
-}
-
-section a:after, a[href*="//"]:hover:after {
-  color: var(--highlight);
-  opacity: 1;
-}
-
-/* File links */
-
-a:before { 
-  font-size: .7em;
-  margin-right: .4em;
-}
 
 /* ------- News ------- */
 
@@ -347,5 +326,3 @@ article time {
   label + input + small:after { content: "]"; }
     
 }
-
-a[href^="//dummy"]::after {content: none;}
