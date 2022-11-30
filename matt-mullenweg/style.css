@@ -67,7 +67,7 @@ form > div input[type="submit"] {background-color: #d91146; border: 0; color: wh
     body.menuopen header nav::before,
     body.menuopen header nav::after {content: ""; display: block; width: 3rem; height: 0.3rem; transform: rotate(45deg); background: white; position: absolute; top: 4rem; right: 4vw;}
     body.menuopen header nav::after {transform: rotate(-45deg);}
-    header .container > a, header nav a:last-child {padding-top: 6rem; min-width: 3.4rem; position: relative; bottom: 0.8rem; margin-right: -4vw; padding-right: 4vw; margin-left: -4vw; padding-left: 4vw;}
+    header .container > a, header nav a:last-child {padding-top: 6rem; min-width: 3.4rem; position: relative; bottom: 0.6rem; margin-right: -4vw; padding-right: 4vw; margin-left: -4vw; padding-left: 4vw;}
     header h1 {position: absolute; left: 50%; transform: translate(-50%);}
     header h1 span {display: none;}
     header h1 a {font-size: 2.8rem; font-weight: 600;}
