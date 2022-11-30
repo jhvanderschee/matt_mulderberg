@@ -61,7 +61,7 @@ form > div input[type="submit"] {background-color: #d91146; border: 0; color: wh
     header nav a:last-child::before {content: none;}
     body.menuopen header nav {height: 100vh; position: fixed; top: 0; left: 0; width: 100%; display: block; background: #2275a5; z-index: 99; padding-top: 8rem; cursor: pointer;}
     body.menuopen header nav a:first-child {border-top: 1px solid rgba(255,255,255,0.2);}
-    body.menuopen header nav a {display: block; padding: 2rem 4vw; border-bottom: 1px solid rgba(255,255,255,0.2);}
+    body.menuopen header nav a {display: block; padding: 2rem 4vw; border-bottom: 1px solid rgba(255,255,255,0.2); font-size: 2.5rem;}
     body.menuopen header nav a:last-child {display: none;}
     body.menuopen header nav::before,
     body.menuopen header nav::after {content: ""; display: block; width: 3rem; height: 0.3rem; transform: rotate(45deg); background: white; position: absolute; top: 4rem; right: 4vw;}
@@ -70,6 +70,7 @@ form > div input[type="submit"] {background-color: #d91146; border: 0; color: wh
     header h1 {position: absolute; left: 50%; transform: translate(-50%);}
     header h1 span {display: none;}
     header h1 a {font-size: 2.8rem; font-weight: 600;}
+    main {min-height: calc(100vh - 11rem);}
     .container {height: 11rem;}
     section {padding-top: 11rem;}
 }
