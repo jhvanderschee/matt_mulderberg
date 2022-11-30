@@ -12,10 +12,10 @@
 
 ### What if it looked like this?
 
-<a href="https://jhvanderschee.github.io/democratizepublishing/matt-mullenweg/"><img src="https://jhvanderschee.github.io/democratizepublishing/matt-mullenweg/images/screenshot.png" style="width: 200px;" /></a>
+<a href="https://jhvanderschee.github.io/democratizepublishing/matt-mullenweg/"><img src="https://jhvanderschee.github.io/democratizepublishing/matt-mullenweg/images/screenshot.png" style="width: 200px;" /></a>  
+[code](matt-mullenweg/) - [demo](https://jhvanderschee.github.io/democratizepublishing/matt-mullenweg/) - [original](https://ma.tt/)
 
 - John Doe - [code](demo/) - [demo](https://jhvanderschee.github.io/democratizepublishing/demo/) - [original](https://john-doe.neocities.org/)
-- Matt Mulderberg - [code](matt-mullenweg/) - [demo](https://jhvanderschee.github.io/democratizepublishing/matt-mullenweg/) - [original](https://ma.tt/)
 
 ### What if it was not only simple but also free to host?
 
