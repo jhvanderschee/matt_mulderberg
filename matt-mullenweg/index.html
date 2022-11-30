@@ -197,9 +197,12 @@
     <script type="text/javascript" src="../add-ons/lightbox.js"></script>
     <link rel="stylesheet" href="../add-ons/lightbox.css">
 
-    <!-- Make sure a hash is loaded -->
+    
     <script type="text/javascript">
+    /* Make sure a hash is loaded */
     if (window.location.hash == '') window.location.href = '#home';
+
+    /* Add a simple mobile menu close listener */
     document.querySelector('nav').addEventListener("click", function() {
         document.body.classList.remove('menuopen');
     });    

@@ -1,4 +1,4 @@
-<!-- JOHN DOE’S PAGE - https://github.com/cadars/john-doe/ -->
+<!-- JOHN DOE’S PAGE - based on https://github.com/cadars/john-doe/ -->
 
 <!DOCTYPE html>
 <html lang="en">
@@ -17,54 +17,27 @@
     
     <header>
       <h1>
-        <a href="#home">Site title</a>
+        <a href="#home">Sem Krikke</a>
       </h1>
       <nav>
         <a href="#about">About</a>
-        <a href="#news">News</a>
-        <a href="#photos">Photos</a>
         <a href="#portfolio">Portfolio</a>
+        <a href="#contact">Contact</a>
       </nav>
     </header>
     
     <main>
-
-      <section id="home"> <!-- HOME -->
+      <section id="home">
+        <p style="font-size: 150%; max-width: 40ch;">Ik ben een derdejaars student Grafisch Vormgeven op het Grafisch Lyceum in Utrecht en ik hou ervan om <a href="#portfolio">mooie dingen</a> te maken.</p>
+      </section>
+      <section id="about"> <!-- HOME -->
         
-        <p>This is the homepage, displayed by default.</p>
+        <p>Ik ben 18 jaar oud en zit in het derde jaar van de opleiding Grafisch Vormgeven op het Grafisch Lyceum in Utrecht. Ik voetbal graag en vind ik het leuk om met vrienden naar de bioscoop te gaan. Naast mijn schoolprojecten heb ik een aantal vormgevings&shy;opdrachten gedaan voor vrienden of kennissen. Deze vind je terug in <a href="#portfolio">mijn portfolio</a>.</p>
+          
+        <p>Ik ben momenteel op zoek naar een stageplek waar ik veel kan leren en mij voor de volle 100% kan inzetten. Tips zijn meer dan welkom!</p>
         
       </section>
 
-      <section id="news"><!-- NEWS -->
-        
-        <article>
-          <h2>Blogging with Joe Bloggs <time datetime="2020-10-10">10.10.2020</time></h2>
-          <p> One <em>could</em> use this setup to write <s>a blog</s> short updates. For images we automatically load the loading="lazy" attribute, so they get loaded only when needed. This page is a very minimal example of this website: <a href="https://john-doe.neocities.org">https://john-doe.neocities.org</a>.</p>
-        </article>
-              
-        <article>
-          <h2>Why Your Cat Bites You <time datetime="2004-12-12">12.12.2004</time></h2>
-          <p>Honestly you don't want to know.</p>
-        </article>
-      
-      </section>      
-      
-      
-      <section id="about"> <!-- ABOUT -->
-        
-        <p>This is the about page. <a href="#another-page">This is a link to another page</a>.</p>
-        
-        <img alt="" src="image.png">
-       
-      </section>
-     
-      <section id="photos"> <!-- PHOTOS -->
-        
-        <p>An example of a photo page.</p>
-        
-        <a href="image.png"><img alt="" src="image.png"></a>
-       
-      </section>
       
       <section id="portfolio"> <!-- PORTFOLIO -->
 
@@ -82,16 +55,19 @@
         
       </section>
         
-      <section id="another-page"> <!-- ANOTHER PAGE -->
+      <section id="contact"> <!-- HOME -->
         
-        <p>This page is not referenced in the menu, yet it exists.</p>
-        
-        <p><a href="#about">← back</a></p>
+        <p>Sem Krikke<br>06 22570746<br>Leerdam, Nederland<br><br><a href="mailto:semkrikke@icloud.com">semkrikke@icloud.com</a><br><a href="https://www.instagram.com/sem.krikke/">Instagram</a></p>
         
       </section>
       
     </main>
     
+    <script type="text/javascript">
+      /* Make sure a hash is loaded */
+      if (window.location.hash == '') window.location.href = '#home';
+    </script>
+
     <script type="text/javascript" src="../add-ons/lightbox.js"></script>
     <link rel="stylesheet" href="../add-ons/lightbox.css">
 
