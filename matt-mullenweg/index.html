@@ -171,7 +171,7 @@
       <div class="container">
         <div>
           <span>© 2022 <a href="">Matt Mulderberg</a></span>
-          <a href="">Powered by a single HTML file</a>
+          <a href="https://github.com/jhvanderschee/democratizepublishing/">Powered by one HTML file</a>
         </div>
         <a onclick="window.scrollTo(0,0);">To the top ↑</a>
       </div>
@@ -183,7 +183,15 @@
     <link rel="stylesheet" href="../add-ons/lightbox.css">
 
     <!-- Make sure a hash is loaded -->
-    <script type="text/javascript">if (window.location.hash == '') window.location.href = '#home';</script>
+    <script type="text/javascript">
+    if (window.location.hash == '') window.location.href = '#home';
+    var navlinks = document.querySelectorAll('nav a');
+    navlinks.forEach(function(navlink) {
+      navlink.addEventListener("click", function() {
+        document.body.classList.remove('menuopen');
+      });
+    });    
+    </script>
 
   </body>
 </html>
