@@ -14,7 +14,7 @@
 
 <a href="https://jhvanderschee.github.io/democratizepublishing/matt-mullenweg/"><img src="https://jhvanderschee.github.io/democratizepublishing/matt-mullenweg/images/screenshot.png" style="width: 200px;" /></a>  
 
-It could be [a replica](https://jhvanderschee.github.io/democratizepublishing/matt-mullenweg/) of [a famous website](https://ma.tt/)... or it could look [really clean](https://jhvanderschee.github.io/democratizepublishing/demo/).
+It could be [a replica](https://jhvanderschee.github.io/democratizepublishing/matt-mullenweg/) of [a famous website](https://ma.tt/)... or it could look [really clean](https://www.semkrikke.nl/).
 
 ## What if it was free to host?
 
