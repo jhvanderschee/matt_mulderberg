@@ -271,7 +271,7 @@ article time {
 .grid {
   display: grid;
   grid-gap: 5vmin;
-  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); /* 150px = minimum image size */
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); /* 150px = minimum image size */
   grid-auto-flow: dense;
 }
 
