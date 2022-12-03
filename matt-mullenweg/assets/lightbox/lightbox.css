@@ -102,7 +102,7 @@ transform-origin: 50% 50%;
     top: 0;
     left: 0;
 } 
-.lightbox-youtube::before {background: url(youtube_button.svg) center center / auto 5rem no-repeat;}
-.lightbox-youtube:hover::before {background: url(youtube_button_hover.svg) center center / auto 5rem no-repeat;}
-.lightbox-youtube::after {background: url(youtube.svg) calc(100% - 1rem) calc(100% - 1rem) / auto 2.5rem no-repeat;}
+.lightbox-youtube::before {background: url(assets/images/youtube_button.svg) center center / auto 5rem no-repeat;}
+.lightbox-youtube:hover::before {background: url(assets/images/youtube_button_hover.svg) center center / auto 5rem no-repeat;}
+.lightbox-youtube::after {background: url(assets/images/youtube.svg) calc(100% - 1rem) calc(100% - 1rem) / auto 2.5rem no-repeat;}
 .lightbox-youtube img {display: block;}
