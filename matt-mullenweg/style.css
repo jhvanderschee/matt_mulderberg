@@ -18,7 +18,7 @@ footer span {font-weight: 700;}
 footer .container div {display: flex; gap: 2.4rem;}
 main {padding-bottom: 12rem; min-height: calc(100vh - 10rem);}
 .container {display: flex; justify-content: space-between; align-items: center; height: 10rem; max-width: 168rem; margin: 0 auto;}
-.container a {color: white; text-decoration: none;}
+.container a, .container a.active {color: white; text-decoration: none;}
 .container a:hover {text-decoration: underline;}
 
 h1, h2, h3 {color: #000000; font-family: 'Inter'; font-style: normal; font-weight: 800; letter-spacing: -0.0415625em;}
