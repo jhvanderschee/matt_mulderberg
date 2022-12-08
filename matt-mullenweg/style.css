@@ -7,8 +7,8 @@ header, footer {background: #2275a5; color: white; letter-spacing: -0.0277em; fo
 header h1 {font-size: 1.8rem; font-weight: 500; color: white;}
 header h1 span {margin-left: 2.1rem;}
 header h1 a {font-weight: 700; font-size: 2.4rem; white-space: nowrap;}
-header h1 a.active {text-decoration: none;}
-header h1 a:hover {text-decoration: underline;}
+header h1 a.active {text-decoration: none!important;}
+header h1 a:hover {text-decoration: underline!important;}
 header nav {display: flex; gap: 2.5rem; font-weight: 500; align-items: center; position: relative; top: 0.2rem;}
 header nav + a {display: none;}
 header nav a:last-child {background: url(assets/images/search.svg) center center / 2.4rem auto no-repeat; margin-left: 4rem; position: relative; bottom: 0.3rem;}
